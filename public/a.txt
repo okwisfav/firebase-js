@@ -1,0 +1,13 @@
+On January 1, 2019 two new societies, SI and S2, are formed, each with n members. On the first day of each subsequent month, S1 adds b members while S2 multiplies its current number of members by a constant factor r. Both the societies have the same number of members on July 2, 2019. If b =10.5n, what is the value of r?
+
+A. 2
+B. 0.9
+C. 1.8
+D. 1.7
+E. 1.5
+
+pipe a 10
+
+Find the missing number 3 12 27 48 75 108 
+147
+
